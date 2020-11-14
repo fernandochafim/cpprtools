@@ -1,0 +1,2 @@
+useDynLib(cpprtools)
+exportPattern("^[[:alpha:]]+")
